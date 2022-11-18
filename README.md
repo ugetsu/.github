@@ -43,6 +43,8 @@ J. Inst. Math. Jussieu, 15 (2016), 85--90.](https://www.cambridge.org/core/journ
    6. Gelfand-Kapranov-Zelevinsky (book)
 5. [McKay correspondence](https://ncatlab.org/nlab/show/McKay+correspondence), [McKay graphs/quivers](https://en.wikipedia.org/wiki/McKay_graph)
     1. John McKay
+        1. [Graphs, singularities and finite groups, Proc. Symp. Pure Math., Proceedings of Symposia in Pure Mathematics, Amer. Math. Soc., 37: 183–186, (1980)](https://doi.org/10.1090/pspum/037/604577)
+	2. Representations and Coxeter Graphs, "The Geometric Vein", Coxeter Festschrift
     2. Gonzales-Springer, Verdier: K-theoretic version
     3. Mikhail Kapranov, Eric Vasserot: equivalence of derived categories of coherent sheaves
     4. Paul Seidel, Richard Thomas: spherical objects and spherical twists, braid group actions
