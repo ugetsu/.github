@@ -28,7 +28,6 @@ J. Inst. Math. Jussieu, 15 (2016), 85--90.](https://www.cambridge.org/core/journ
    5. Teun Dings, Erik Koelnik: [On the Mathieu conjecture for SU(2). Indag. Math. 26 (2015), 219-224](https://arxiv.org/abs/1404.4215), also [1404.4215](https://ar5iv.org/abs/1404.4215)
    6. J.J. Duistermaat, W. van der Kallen: [Constant terms in powers of a Laurent polynomial, Indag. Math. (N.S.) 9 (1998), 221–231.](https://webspace.science.uu.nl/~kalle101/powers.pdf), the proof of Mathieu conjecture for torus using Hironaka's resolution and analytic continuation
    7. Olivier Mathieu: [Some conjectures about invariant theory and their applications, pp. 263–279 in Algèbre non commutative, groupes quantiques et invariants (eds. J. Alev, G. Cauchon), Sé minaires et Congrès 2, Soc. Math. France, 1997.](https://smf.emath.fr/sites/default/files/2018-11/smf_sem-cong_2_263-279_\_sample.pdf)
-
 4. Interface of algebraic geometry and convex geometry
    1. toric varieties
    2. [Minkowski mixed volume](https://en.wikipedia.org/wiki/Mixed_volume) and [Bernstein-Kushnirenko theorem](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Kushnirenko_theorem)
@@ -42,4 +41,21 @@ J. Inst. Math. Jussieu, 15 (2016), 85--90.](https://www.cambridge.org/core/journ
       6. Cover, Thomas: Elements of Information Theory (textbook), Chapter 17 "Inequalities in Information Theory"
    5. [Newton-Okounkov bodies](https://en.wikipedia.org/wiki/Newton%E2%80%93Okounkov_body)
    6. Gelfand-Kapranov-Zelevinsky (book)
-
+5. [McKay correspondence](https://ncatlab.org/nlab/show/McKay+correspondence), [McKay graphs/quivers](https://en.wikipedia.org/wiki/McKay_graph)
+    1. John McKay
+    2. Gonzales-Springer, Verdier: K-theoretic version
+    3. Mikhail Kapranov, Eric Vasserot: equivalence of derived categories of coherent sheaves
+    4. Paul Seidel, Richard Thomas: spherical objects and spherical twists, braid group actions
+    5. RG flow, McKay correspondence as phase transition in gauged linear sigma models
+    6. K-equivalence and D-equivalence after Bondal-Orlov, Kawamata and others
+6. Mirror symmetry and all that
+    1. Duistermaat, van der Kallen (to start)
+    2. lectures/introductions by Galkin and collaborators
+    3. Polishchuk, Zaslow: HMS for elliptic curves
+       - other surfaces examples by Siu-Cheong Lau and collaborators
+7. Gamma-conjectures
+    1. Iritani's video
+    2. quantum cohomology, quantum differential equation
+    3. mirror map
+    4. loop space interpretation
+8. Mutations, cluster algebras and varieties, and all that
