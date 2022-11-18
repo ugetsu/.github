@@ -35,10 +35,11 @@ J. Inst. Math. Jussieu, 15 (2016), 85--90.](https://www.cambridge.org/core/journ
    3. Stanley's proof of [Dehn-Sommervile relations](https://en.wikipedia.org/wiki/Dehn%E2%80%93Sommerville_equations)
    4. Inequalities: [Brunn-Minkowski](https://en.wikipedia.org/wiki/Brunn%E2%80%93Minkowski_theorem), Alexandrov-Fenchel, [Hodge index theorem](https://en.wikipedia.org/wiki/Hodge_index_theorem). Relation to information theoretic inequalities (Shannon inequality, non-negativity of Kullback-Leibler divergence, etc).
       1. Ramon van Handel: [Shephard's inequalities, Hodge-Riemann relations, and a conjecture of Fedotov](https://ar5iv.org/abs/2109.05169),  [2109.05169](https://ar5iv.org/abs/2109.05169)
-      2. Askold Khovanskii, Vladlen Timorin: [On the theory of coconvex bodies](https://arxiv.org/abs/1308.1781), also [1308.1781](https://ar5iv.org/abs/1308.1781)
-      3. Erwin Lutwak, Deane Yang, Gaoyong Zhang: [The Cramer–Rao inequality for star bodies](https://cims.nyu.edu/~yangd/papers/cramer_rao.pdf)
-      4. Misha Gromov: [Convex Sets and Kähler Manifolds (1990)](https://www.ihes.fr/~gromov/wp-content/uploads/2018/08/68.pdf)
-      5. Cover, Thomas: Elements of Information Theory (textbook), Chapter 17 "Inequalities in Information Theory"
+      2.  B. Ya. Kazarnovskii, A. G. Khovanskii, A. I. Esterov: [Newton polytopes and tropical geometry](https://iopscience.iop.org/article/10.1070/RM9937/meta), 
+      3. Askold Khovanskii, Vladlen Timorin: [On the theory of coconvex bodies](https://arxiv.org/abs/1308.1781), also [1308.1781](https://ar5iv.org/abs/1308.1781)
+      4. Erwin Lutwak, Deane Yang, Gaoyong Zhang: [The Cramer–Rao inequality for star bodies](https://cims.nyu.edu/~yangd/papers/cramer_rao.pdf)
+      5. Misha Gromov: [Convex Sets and Kähler Manifolds (1990)](https://www.ihes.fr/~gromov/wp-content/uploads/2018/08/68.pdf)
+      6. Cover, Thomas: Elements of Information Theory (textbook), Chapter 17 "Inequalities in Information Theory"
    5. [Newton-Okounkov bodies](https://en.wikipedia.org/wiki/Newton%E2%80%93Okounkov_body)
    6. Gelfand-Kapranov-Zelevinsky (book)
 
