@@ -4,6 +4,9 @@ Please [add here](https://github.com/sergunchik/seminario)
 interesting themes for next seminar talks, references, slides of the talks, etc
 
 
+Some topics below is but an example, add yours!
+
+
 1. [Kazhdan's Property T](https://en.wikipedia.org/wiki/Kazhdan's_property_(T)) and amenability.
    1. Ozawa's characterization of Property T in terms of [semidefinite programming](https://en.wikipedia.org/wiki/Semidefinite_programming)
        - Narutaka Ozawa: [How feasible is it to prove Kazhdan's property (T) by a computer?](https://mathoverflow.net/q/154431), see replies with current bibliography
