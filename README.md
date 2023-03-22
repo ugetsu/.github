@@ -9,9 +9,9 @@
 - March 22, 17:00:   Sergey and participants will draw a map of math and physics and point some of the topics to discuss in detail in later meetings
 - March 24, 14:00-16:00:  Bruno
 
-## **Bruno Suassuna**: Formal Perturbation Theory for Stochastic Paths
+## March 24: **Bruno Suassuna**: Formal Perturbation Theory for Stochastic Paths
 - DMAT PUC-Rio, sala L866 (ed. Leme)
-- March 24 (Friday = 6ª), 14:00-16:00 (pre-talk lunch from 13 to 14)
+- **March 24** (Friday = 6ª), 14:00-16:00 (pre-talk lunch from 13 to 14)
 - Short abstract for mathematicians:
 
 We discuss methods of perturbative QFT applied to certain stochastic differential equations (SDE), perturbations of the Ornstein-Uhlenbeck process. No knowledge of SDE or QFT is assumed.
@@ -26,7 +26,7 @@ The motivation comes from experiments with optical tweezers, which roughly are l
 
 # Seminar materials
 
-Please [add here](https://github.com/sergunchik/seminario/topics.md)
+Please [add here](https://github.com/sergunchik/seminario/blob/master/topics.md)
 interesting themes and topics for next seminar talks, references, slides of the talks, etc
 
 
