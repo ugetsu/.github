@@ -64,3 +64,5 @@ J. Inst. Math. Jussieu, 15 (2016), 85--90.](https://www.cambridge.org/core/journ
     3. mirror map
     4. loop space interpretation
 8. Mutations, cluster algebras and varieties, and all that
+9. Foundations of quantum mechanics - QBism (Quantum Bayesianism), PROPs, ...
+10. Nahm's theorem - classification of supersymmetry. The hypothetical 6-dimensional theory and its compactification. Network of dualities.
