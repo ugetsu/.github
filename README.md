@@ -8,7 +8,10 @@
 
 ## what
 
-- June 16, 23, 30; July 7 - vacant
+- July 7
+- June 30
+- June 23
+- June 16
 - June 9 - no seminar, [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 - June 2, Graham
 - May 26, Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and their categorification
