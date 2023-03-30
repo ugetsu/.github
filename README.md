@@ -10,16 +10,18 @@
 
 - June 16, 23, 30; July 7 - vacant
 - June 9 - no seminar, [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
-- May 19, May 26, June 2 - Miguel or Antonio or Graham
-- May 12, Veronika - graphs on surfaces, and their counting
-- May 5, Victor - determinantal varieties 
+- June 2, Graham
+- May 26, Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and their categorification
+- May 19, Antônio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
+- May 12, Verônica - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
+- May 5, Victor - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 - April 28 - maybe no seminar, or Sergey might join by zoom
 - April 21 - no seminar, [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- April 14, Filipe - pencils of conics, (after a conference in UFF)
+- April 14, Filipe - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry)), (after a conference in UFF)
 - April 7 - no seminar, [Semana Santa](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on April 6-9
-- March 31, 14:00-16:00: Jacques Pienaar - QBism for mathematicians
+- March 31, 14:00-16:00: Jacques Pienaar - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) for mathematicians
 - March 24, 14:00-16:00:  Bruno on formal perturbation theory for stochastic paths
-- March 22, 17:00:   Sergey, Graham; Bruno, Veronika, Victor:   free discussion
+- March 22, 17:00:  André, Bruno, Sérgio, Verônica, Victor:   free discussion
 
 ## March 31: [**Jacques Pienaar**](https://www.jaypienaar.com): [QBism](http://www.physics.umb.edu/Research/QBism/), an introduction for mathematicians
 
