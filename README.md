@@ -36,9 +36,11 @@ The application we discuss was the subject of joint work with Bruno Melo (ETH Zu
 
 The motivation comes from experiments with optical tweezers, which roughly are laser beams able to trap certain particles around a point of mechanical equilibrium. The particle does not sit in the mechanical equilibrium, but jiggles stochastically around it; this stochasticity is known as Brownian motion and is the reason one uses SDE instead of ODE in the mathematical models. Often the working assumption is that the optical forces are a linear function of the displacement from mechanical equilibrium, which as we know is simply a first order Taylor approximation. We provided a way to deal with optical forces modelled by a linear function perturbed by small non-linearities, so potentially this method would be useful for sufficiently precise experiments. The validity of our method was probed by some numerical experiments, and for mysterious reasons it seems to work.
 
-# Seminar materials
+# Seminar materials and how to join
 
-Please [add here](https://github.com/sergunchik/seminario/blob/master/topics.md)
+- Make a pull request to join our group
+
+- Please [add here](https://github.com/sergunchik/seminario/blob/master/topics.md)
 interesting themes and topics for next seminar talks, references, slides of the talks, etc
 
 
