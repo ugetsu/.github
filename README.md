@@ -8,11 +8,13 @@
 
 ## what
 
-- May 5 - Sergey or Graham, etc
-- April 28 - maybe no seminar
-- April 21, Veronika - graphs on surfaces, and their counting
-- April 14, Victor - determinantal varieties   (after a conference in UFF)
-- April 7, Filipe - pencils of conics  
+- May 19 - Sergey or Graham, etc
+- May 12, Veronika - graphs on surfaces, and their counting
+- May 5, Victor - determinantal varieties 
+- April 28 - maybe no seminar, or Sergey might join by zoom
+- April 21 - no seminar, [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
+- April 14, Filipe - pencils of conics, (after a conference in UFF)
+- April 7 - no seminar, [Semana Santa](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - March 31, 14:00-16:00: Jacques Pienaar - QBism for mathematicians
 - March 24, 14:00-16:00:  Bruno on formal perturbation theory for stochastic paths
 - March 22, 17:00:   Sergey, Graham; Bruno, Veronika, Victor:   free discussion
