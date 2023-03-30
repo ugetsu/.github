@@ -1,13 +1,23 @@
 # the seminar
+
+# March 31, 14:00-16:00: [**Jacques Pienaar**](https://www.jaypienaar.com): [QBism](http://www.physics.umb.edu/Research/QBism/), an introduction for mathematicians
+
 ## where: DMAT PUC-Rio, room L866 (Leme building)
 ## when:
-  - Wednesday (quarta-feira) from 17:00;
-  - Fridays (sexta-feira) from 13:00 to 16:00 with lunch around 12:50-13:50 before the talk.
+  - Fridays (sexta-feira) from 14:00 to 16:00 with lunch around 12:50-13:50 before the talk.
 
 ## what
 
-- March 22, 17:00:   Sergey and participants will draw a map of math and physics and point some of the topics to discuss in detail in later meetings
-- March 24, 14:00-16:00:  Bruno
+- May 5 - Sergey or Graham, etc
+- April 28 - maybe no seminar
+- April 21, Veronika - graphs on surfaces, and their counting
+- April 14, Victor - determinantal varieties
+- April 7, Filipe - pencils of conics  (after a conference in UFF)
+- March 31, 14:00-16:00: Jacques Pienaar - QBism for mathematicians
+- March 24, 14:00-16:00:  Bruno on formal perturbation theory for stochastic paths
+- March 22, 17:00:   Sergey, Graham; Bruno, Veronika, Victor:   free discussion
+
+## March 31: [**Jacques Pienaar**](https://www.jaypienaar.com): [QBism](http://www.physics.umb.edu/Research/QBism/), an introduction for mathematicians
 
 ## March 24: **Bruno Suassuna**: Formal Perturbation Theory for Stochastic Paths
 - DMAT PUC-Rio, sala L866 (ed. Leme)
