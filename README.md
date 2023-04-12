@@ -26,8 +26,8 @@ so some participants will arrive back to PUC around 14:00 or a bit later)
 - April 21 - no seminar, [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - April 14, Filipe - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry)), (after a conference in UFF)
 - April 7 - no seminar, [Semana Santa](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on April 6-9
-- March 31, 14:00-16:00: Jacques Pienaar - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) for mathematicians
-- March 24, 14:00-16:00:  Bruno on [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
+- March 31, [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) for mathematicians
+- March 24, Bruno on [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
 - March 22, 17:00:  André, Bruno, Sérgio, Verônica, Victor:   free discussion
 
 
