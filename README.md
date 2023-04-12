@@ -6,7 +6,7 @@
 so some participants will arrive back to PUC around 14:00 or a bit later)
 
 
-## where: DMAT PUC-Rio, room L866 (Leme building)
+## where: DMAT PUC-Rio, room L856 (Leme building)
 ## when:
   - Fridays (sexta-feira) from 14:00 to 16:00 with lunch around 12:50-13:50 before the talk.
 
