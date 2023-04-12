@@ -1,6 +1,7 @@
 # the seminar
 
-# April 14, Filipe - pencils of conics, 
+# April 14, Filipe Bellio da Nobrega - pencils of conics
+
 (th talk will start after a conference in UFF - last talk at the conference ends at 13:10,
 so some participants will arrive back to PUC around 14:00 or a bit later)
 
