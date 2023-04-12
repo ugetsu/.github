@@ -1,6 +1,7 @@
 # the seminar
 
-# March 31, 14:00-16:00: [**Jacques Pienaar**](https://www.jaypienaar.com): [QBism](http://www.physics.umb.edu/Research/QBism/), an introduction for mathematicians
+# April 14, Filipe - pencils of conics, (after a conference in UFF - 14:00 or a bit later)
+
 
 ## where: DMAT PUC-Rio, room L866 (Leme building)
 ## when:
@@ -25,6 +26,8 @@
 - March 31, 14:00-16:00: Jacques Pienaar - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) for mathematicians
 - March 24, 14:00-16:00:  Bruno on [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
 - March 22, 17:00:  André, Bruno, Sérgio, Verônica, Victor:   free discussion
+
+
 
 ## March 31: [**Jacques Pienaar**](https://www.jaypienaar.com): [QBism](http://www.physics.umb.edu/Research/QBism/), an introduction for mathematicians
 
