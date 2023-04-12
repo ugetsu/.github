@@ -1,6 +1,8 @@
 # the seminar
 
-# April 14, Filipe - pencils of conics, (after a conference in UFF - 14:00 or a bit later)
+# April 14, Filipe - pencils of conics, 
+(th talk will start after a conference in UFF - last talk at the conference ends at 13:10,
+so some participants will arrive back to PUC around 14:00 or a bit later)
 
 
 ## where: DMAT PUC-Rio, room L866 (Leme building)
