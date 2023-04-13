@@ -1,10 +1,13 @@
 # the seminar
 
-# April 14, Filipe Bellio da Nobrega - pencils of conics
+# April 14, Filipe Bellio da Nóbrega:   pencils of conics
 
-(th talk will start after a conference in UFF - last talk at the conference ends at 13:10,
+(the talk will start after a conference in UFF - last talk at the conference ends at 13:10,
 so some participants will arrive back to PUC around 14:00 or a bit later)
 
+A __conic__ is an algebraic curve given by the zero set of a homogeneous polynomial of degree two in three variables, as $ax^2+2hxy+by^2+2fxz+2gyz+cz^2$. Such an expression is given by six coefficients, but multiples of a given equation correspond to the same curve. Therefore, the moduli space of __real conics__ and of __complex conics__ are $\mathbf{RP}^5$ and $\mathbf{CP}^5$ respectively.
+
+A __real (complex) pencil of conics__ is a one-parameter family of conics given by a __real (complex) line__ in the suitable moduli space. Let $u$ and $v$ be two distinct conics, the pencil that contains them can be algebraically given by $\alpha u + \beta v$, where $[\alpha \colon \beta] \in \mathbf{RP}^1$ (or $\mathbf{CP}^1$). In this talk we will describe and classify all orbits of pencils of conics under the action of the projective group PGL$(3,\mathbf{R})$ (and PGL$(3,\mathbf{C})$).
 
 ## where: DMAT PUC-Rio, room L856 (Leme building)
 ## when:
@@ -32,11 +35,14 @@ so some participants will arrive back to PUC around 14:00 or a bit later)
 
 
 
+## April 14: Filipe Bellio da Nóbrega: Pencils of Conics
+A __conic__ is an algebraic curve given by the zero set of a homogeneous polynomial of degree two in three variables, as $ax^2+2hxy+by^2+2fxz+2gyz+cz^2$. Such an expression is given by six coefficients, but multiples of a given equation correspond to the same curve. Therefore, the moduli space of __real conics__ and of __complex conics__ are $\mathbf{RP}^5$ and $\mathbf{CP}^5$ respectively.
+
+A __real (complex) pencil of conics__ is a one-parameter family of conics given by a __real (complex) line__ in the suitable moduli space. Let $u$ and $v$ be two distinct conics, the pencil that contains them can be algebraically given by $\alpha u + \beta v$, where $[\alpha \colon \beta] \in \mathbf{RP}^1$ (or $\mathbf{CP}^1$). In this talk we will describe and classify all orbits of pencils of conics under the action of the projective group PGL$(3,\mathbf{R})$ (and PGL$(3,\mathbf{C})$).
+
 ## March 31: [**Jacques Pienaar**](https://www.jaypienaar.com): [QBism](http://www.physics.umb.edu/Research/QBism/), an introduction for mathematicians
 
 ## March 24: **Bruno Suassuna**: Formal Perturbation Theory for Stochastic Paths
-- DMAT PUC-Rio, sala L866 (ed. Leme)
-- **March 24** (Friday = 6ª), 14:00-16:00 (pre-talk lunch from 13 to 14)
 - Short abstract for mathematicians:
 
 We discuss methods of perturbative QFT applied to certain stochastic differential equations (SDE), perturbations of the Ornstein-Uhlenbeck process. No knowledge of SDE or QFT is assumed.
