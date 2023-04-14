@@ -35,9 +35,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## what's next
 
-- July 7
-- June 30 - Andrey Soldatenkov
-- June 23 - Sergey Sergeyev - (TBC) WKB method, and all that
+- July 7: resume of seminar in 2023.1, and free discussion
+- June 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory), what is it and how to use it
+- June 23 - Sergey Sergeyev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), caand all that
 - June 16 - Sergey Burkin - TBA
 - June 9 - no seminar, [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 - June 2, Graham
