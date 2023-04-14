@@ -47,10 +47,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - May 5, Victor - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 - April 28 - maybe no seminar, or Sergey might join by zoom
 - April 21 - no seminar, [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- April 14, Filipe - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
 
 ## past talks
 
+- April 14, Filipe - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
 - April 7 - no seminar, [Semana Santa](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on April 6-9
 - March 31, [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) for mathematicians
 - March 24, Bruno on [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
