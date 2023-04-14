@@ -47,7 +47,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - May 5, Victor - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 - April 28 - maybe no seminar, or Sergey might join by zoom
 - April 21 - no seminar, [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- April 14, Filipe - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry)), (after a conference in UFF)
+- April 14, Filipe - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
 
 ## past talks
 
