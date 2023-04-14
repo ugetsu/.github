@@ -1,7 +1,7 @@
-# April 14, **Filipe Bellio da Nóbrega**:   pencils of conics
-
-(the talk will start after a conference in UFF - last talk at the conference ends at 13:10,
-so some participants will arrive back to PUC around 14:00 or a bit later)
+# **Filipe Bellio da Nóbrega**
+# Pencils of Conics
+## April 14, 14:14-16:00; DMAT PUC-Rio, room L856 (ed. Leme)
+- **April 4** (Friday = 6ª), 14:00-16:00, the talk may start a bit later if people from UFF are delayed
 
 A __conic__ is an algebraic curve given by the zero set of a homogeneous polynomial of degree two in three variables, as $ax^2+2hxy+by^2+2fxz+2gyz+cz^2$. Such an expression is given by six coefficients, but multiples of a given equation correspond to the same curve. Therefore, the moduli space of __real conics__ and of __complex conics__ are $\mathbf{RP}^5$ and $\mathbf{CP}^5$ respectively.
 
