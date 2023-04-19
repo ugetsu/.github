@@ -11,10 +11,9 @@
 
 # 🙋‍♀️ Friday seminar 👋
 
-# April 14, **Filipe Bellio da Nóbrega**:   pencils of conics
+# Next talk: **May 5**, **Victor Ibrahim Santos el Adji**: [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 
-(the talk will start after a conference in UFF - last talk at the conference ends at 13:10,
-so some participants will arrive back to PUC around 14:00 or a bit later)
+# Previous talk: April 14, **Filipe Bellio da Nóbrega**:   pencils of conics
 
 A __conic__ is an algebraic curve given by the zero set of a homogeneous polynomial of degree two in three variables, as $ax^2+2hxy+by^2+2fxz+2gyz+cz^2$. Such an expression is given by six coefficients, but multiples of a given equation correspond to the same curve. Therefore, the moduli space of __real conics__ and of __complex conics__ are $\mathbf{RP}^5$ and $\mathbf{CP}^5$ respectively.
 
