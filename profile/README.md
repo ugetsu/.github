@@ -40,8 +40,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - June 16 - Sergey Burkin - TBA
 - June 9 - no seminar, [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 - June 2, Graham
-- May 26, Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and their categorification
-- May 19, Antônio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
+- May 26, Antônio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
+- May 19, Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and their categorification
 - May 12, Verônica - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
 - May 5, Victor - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 - April 28 - maybe no seminar, or Sergey might join by zoom
