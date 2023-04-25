@@ -11,9 +11,11 @@
 
 # 🙋‍♀️ Friday seminar 👋
 
-# Next talk: **May 5**, **Victor Ibrahim Santos el Adji**: [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
+# Next talks:
+## **April 28**, **Sergey** on pencils of quadrics (or no seminar? - vote)
+## **May 5**, **Victor Ibrahim Santos el Adji**: [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 
-# Previous talk: April 14, **Filipe Bellio da Nóbrega**:   pencils of conics
+## Previous talk: April 14, **Filipe Bellio da Nóbrega**:   pencils of conics
 
 A __conic__ is an algebraic curve given by the zero set of a homogeneous polynomial of degree two in three variables, as $ax^2+2hxy+by^2+2fxz+2gyz+cz^2$. Such an expression is given by six coefficients, but multiples of a given equation correspond to the same curve. Therefore, the moduli space of __real conics__ and of __complex conics__ are $\mathbf{RP}^5$ and $\mathbf{CP}^5$ respectively.
 
@@ -37,26 +39,36 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - July 7: resume of seminar in 2023.1, and free discussion
 - June 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory), what is it and how to use it
 - June 23 - Sergey Sergeyev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
-- June 16 - Sergey Burkin - TBA
+- June 16 - Sergey Burkin - TBA, probably something on trees and graphs, categories, operads, and/or PROPs
 - June 9 - no seminar, [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 - June 2, Graham
 - May 26, Antônio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
 - May 19, Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and their categorification
 - May 12, Verônica - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
 - May 5, Victor - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
-- April 28 - maybe no seminar, or Sergey might join by zoom
-- April 21 - no seminar, [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
+- April 28 - Sergey Galkin - pencilcs of quadrics
+
 
 ## past talks
 
+- April 21 - holiday [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - April 14, Filipe - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
-- April 7 - no seminar, [Semana Santa](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on April 6-9
+- April 7 - holiday [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - March 31, [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) for mathematicians
 - March 24, Bruno on [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
 - March 22, 17:00:  André, Bruno, Sérgio, Verônica, Victor:   free discussion
 
 
 # Abstracts of all talks      👩‍💻 add yours below 🌈
+
+## April 28: Sergey Galkin: Pencils of Quadrics, Hyper-Elliptic Curves, their Jacobians, and Moduli Spaces of Stable Vector Bundles of Rank Two
+I will introduce higher-dimensional analogues of pencils of conics (introduced by Filipe on April 14) - namely pencils of quadrics, for example I will explain a classical construction that relates pencils of quadrics with hyper-elliptic curves (double covers of a projective line), and discuss how their linear algebra and geometry is related to various questions about moduli spaces of bundles on these curves, in particular how to construct some forms of Jacobians and moduli spaces of stable rank 2 bundles on a hyper-elliptic curve in terms of a pencil of quadrics and the respective matrix of linear forms (Miles Reid's thesis and Desale-Ramanan's theorem).
+
+Just one dimension higher - if we consider pencils of two-dimensional quadrics in a three-dimensional projective space (i.e. 4-times-4 symmetric matrices with entries in homogeneous linear polynomials of two variables) we obtain models of elliptic (genus one) curves, and can also relate it to a version of Poncelet theorem in three-dimensional space. When we consider pencils of 4-dimensional quadrics in 5-dimensional projective space their base locus is an interesting Fano threefold, and the respective spectral curve is a curve of genus two (all of them are hyper-elliptic), with the base locus (Fano threefold) being one of the simplest moduli spaces of vector bundles, and the respective Jacobian of a genus two curve being isomorphic to the variety of lines isotopic with respect to all quadratic forms in the pencil.
+
+This is a somewhat classical geometric topic that easily related to both well-known constructions as well as interesting open problems related to some of my research. So it could be useful to students interested in algebraic geometry or conformal field theory, as well as to those whose research is related to elliptic and genus two curves and their Jacobians, among many others.
+
+
 
 ## April 14: Filipe Bellio da Nóbrega: Pencils of Conics
 A __conic__ is an algebraic curve given by the zero set of a homogeneous polynomial of degree two in three variables, as $ax^2+2hxy+by^2+2fxz+2gyz+cz^2$. Such an expression is given by six coefficients, but multiples of a given equation correspond to the same curve. Therefore, the moduli space of __real conics__ and of __complex conics__ are $\mathbf{RP}^5$ and $\mathbf{CP}^5$ respectively.
