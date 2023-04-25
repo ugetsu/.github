@@ -31,6 +31,7 @@ A __real (complex) pencil of conics__ is a one-parameter family of conics given 
 ## where: 
   - **DMAT PUC-Rio**, room **L856** in Leme building (left from main entrance)
   - take an elevator to 8th floor near the "Bar Nossa Senhora do Carmo" (one with nuns) in front of "Livraria Carga Nobre" bookshop
+  - if room L856 is occupied (e.g. for Masters/PhD defence) we will use room **L866**
  
 ## when:
   - Fridays (sexta-feira) from **14:00 to 16:00** 
