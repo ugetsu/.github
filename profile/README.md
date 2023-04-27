@@ -98,6 +98,33 @@ The application we discuss was the subject of joint work with Bruno Melo (ETH Zu
 
 The motivation comes from experiments with optical tweezers, which roughly are laser beams able to trap certain particles around a point of mechanical equilibrium. The particle does not sit in the mechanical equilibrium, but jiggles stochastically around it; this stochasticity is known as Brownian motion and is the reason one uses SDE instead of ODE in the mathematical models. Often the working assumption is that the optical forces are a linear function of the displacement from mechanical equilibrium, which as we know is simply a first order Taylor approximation. We provided a way to deal with optical forces modelled by a linear function perturbed by small non-linearities, so potentially this method would be useful for sufficiently precise experiments. The validity of our method was probed by some numerical experiments, and for mysterious reasons it seems to work.
 
+## 2022, Dec 16: **[Marcos Craizer](http://intranet.mat.puc-rio.br/~craizer/)**: Esferas Afins Impróprias e Equações de Monge-Ampère
+Nesta aula vamos falar da relação entre esferas afins impróprias e equações de Monge-Ampère. Discutiremos a construção centro-corda para esferas afins impróprias de dimensão 2 e as singularidades genéricas destas superfícies. Mostramos também uma generalização desta construção para dimensões pares arbitrárias.
+
+## 2022, Dec 9: **[Alexander Guterman](https://math.biu.ac.il/en/node/3469)**: The solution of Wang-Krauters’s problem on permanents of (−1, 1)-matrices
+Slides of the talk in PDF: <http://www.mat.puc-rio.br/Upload/Arquivo/2022/12/guterman22decrio.pdf>
+The classes of $(-1,1)$-matrices are very important in algebra and combinatorics and in various their applications. For example, well-known Hadamard matrices are of this type.  
+
+Two important functions in matrix theory, determinant and permanent, look very similar:
+$$\mathrm{det} A = \sum_{\sigma\in \Sigma_n} (-1)^{\sigma} a_{1\sigma(1)}\cdots a_{n\sigma(n)}$$
+and
+$$\mathrm{per} A = \sum_{\sigma\in \Sigma_n} a_{1\sigma(1)}\cdots a_{n\sigma(n)}$$
+here $A=(a_{ij})\in M_n(\mathrm{F})$ is an $n\times n$ matrix and $\Sigma_n$ denotes the set of all permutations of the set $\{1,\ldots, n\}$. 
+
+While the computation of the determinant can be done in a polynomial time, it is still an open question, if there are such algorithms to compute the permanent. 
+
+In 1974 Wang posed a question to find a decent upper bound for $|\per(A)|$ if $A$ is a square $\pm 1$-matrix of rank $k$.
+In 1985 Kräuter conjectured a certain upper bound. 
+
+We prove the Kräuter's conjecture and thus obtain the complete answer to the Wang's question. In particular, we characterized matrices with the maximal possible permanent for each value of $k$.
+
+We also plan to discuss other problems related to permanent for $(0,1)$ and $(-1,1)$-matrices.
+
+The talk is based on the joint work with M.V. Budrevich.
+
+- A.R. Kräuter, Recent results on permanents of (+1, -1)-matrices, Ber. No. 249, Berichte, 243-254, Forschungszentrum Graz, Graz, 1985.
+- E.T.H. Wang, On permanents of (+1, -1)-matrices, Israel J. Math., **18**, 1974, 353-361.
+
 
 
 
