@@ -21,6 +21,9 @@ This is a somewhat classical geometric topic that easily related to both well-kn
 
 ## **May 5**, **Victor Ibrahim Santos el Adji**: [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 
+In this seminar I will dedicate myself to the study of generic determinantal varieties (or simply determinantal varieties), given by complex matrices whose minors of a given order cancel each other out. In addition to being a central topic in both Commutative Algebra and Algebraic Geometry, these varieties have several connections with Invariant Theory, Representation Theory and Combinatorics. For example, many classical constructions such as normal rational curves, Veronese manifolds, Segre manifolds, normal rational rolls, are given by determinant manifolds.
+Our aim is to describe the fundamental properties (normality, irreducibility, singular place, etc) and calculate the basic invariants (degree, dimension, Euler's topological characteristic, etc) of determinant manifolds. To do so, we establish the first and second fundamental theorems of invariant theory as one of the main tools
+
 ## Previous talk: April 14, **Filipe Bellio da Nóbrega**:   pencils of conics
 
 A __conic__ is an algebraic curve given by the zero set of a homogeneous polynomial of degree two in three variables, as $ax^2+2hxy+by^2+2fxz+2gyz+cz^2$. Such an expression is given by six coefficients, but multiples of a given equation correspond to the same curve. Therefore, the moduli space of __real conics__ and of __complex conics__ are $\mathbf{RP}^5$ and $\mathbf{CP}^5$ respectively.
