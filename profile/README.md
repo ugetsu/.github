@@ -19,9 +19,10 @@ Just one dimension higher - if we consider pencils of two-dimensional quadrics i
 
 This is a somewhat classical geometric topic that easily related to both well-known constructions as well as interesting open problems related to some of my research. So it could be useful to students interested in algebraic geometry or conformal field theory, as well as to those whose research is related to elliptic and genus two curves and their Jacobians, among many others.
 
-## **May 5**, **Victor Ibrahim Santos el Adji**: [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
+## **May 5**, **Victor Ibrahim Santos El Adji**: [Determinantal Varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 
 In this seminar I will dedicate myself to the study of generic determinantal varieties (or simply determinantal varieties), given by complex matrices whose minors of a given order cancel each other out. In addition to being a central topic in both Commutative Algebra and Algebraic Geometry, these varieties have several connections with Invariant Theory, Representation Theory and Combinatorics. For example, many classical constructions such as normal rational curves, Veronese manifolds, Segre manifolds, normal rational rolls, are given by determinant manifolds.
+
 Our aim is to describe the fundamental properties (normality, irreducibility, singular place, etc) and calculate the basic invariants (degree, dimension, Euler's topological characteristic, etc) of determinant manifolds. To do so, we establish the first and second fundamental theorems of invariant theory as one of the main tools
 
 ## Previous talk: April 14, **Filipe Bellio da Nóbrega**:   pencils of conics
