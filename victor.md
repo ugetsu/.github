@@ -1,2 +1,22 @@
-Neste seminário dedicarei ao estudo das variedades determinantais genéricas (ou simplesmente variedades determinantais), dadas por matrizes complexas cujos menores de uma dada ordem se anulam. Além de constituírem um tópico central tanto em Álgebra Comutativa como em Geometria Algébrica, estas variedades possuem diversas conexões com a Teoria dos Invariantes, Teoria das Representações e Combinatória. Por exemplo, diversas construções clássicas como curvas racionais normais, variedades de Veronese, variedades de Segre, rolos racionais normais, são dadas por variedades determinantais. 
-Nosso objetivo é descrever as propriedades fundamentais (normalidade, irredutibilidade, lugar singular, etc) e calcular os invariantes básicos (grau, dimensão, característica topológica de Euler, etc) das variedades determinantais. Para tanto, estabelecemos o primeiro e segundo teorema fundamentais da teoria dos invariantes como uma das principais ferramentas.
+Neste seminário dedicarei ao estudo das variedades determinantais genéricas (ou simplesmente variedades determinantais),
+dadas por matrizes complexas cujos menores de uma dada ordem se anulam.
+
+Além de constituírem um tópico central tanto em Álgebra Comutativa como em Geometria Algébrica
+estas variedades possuem diversas conexões com a Teoria dos Invariantes, Teoria das Representações e Combinatória.
+
+Por exemplo, diversas construções clássicas como 
+
+- curvas racionais normais,
+- variedades de Veronese,
+- variedades de Segre,
+- rolos racionais normais, 
+
+são dadas por variedades determinantais. 
+
+Nosso objetivo é descrever as propriedades fundamentais
+        (normalidade, irredutibilidade, lugar singular, etc)
+e calcular os invariantes básicos
+        (grau, dimensão, característica topológica de Euler, etc)
+das variedades determinantais.
+
+Para tanto, estabelecemos o primeiro e segundo teorema fundamentais da teoria dos invariantes como uma das principais ferramentas.
