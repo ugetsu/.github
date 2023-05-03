@@ -12,24 +12,21 @@
 # 🙋‍♀️ Friday seminar 👋
 
 # Next talks:
-## **April 28**: **Sergey Galkin** (L866): **Pencils of Quadrics**, Hyper-Elliptic Curves, their Jacobians, and Moduli Spaces of Stable Vector Bundles of Rank Two
-I will introduce higher-dimensional analogues of pencils of conics (that were introduced by Filipe on April 14) - namely pencils of quadrics. For example, I will explain a classical construction that relates pencils of quadrics with hyper-elliptic curves (double covers of a projective line), and discuss how their linear algebra and geometry is related to various questions about moduli spaces of bundles on these curves, in particular how to construct some forms of Jacobians and moduli spaces of stable rank 2 bundles on a hyper-elliptic curve in terms of a pencil of quadrics and the respective matrix of linear forms (Miles Reid's thesis and Desale-Ramanan's theorem from 1970s).
-
-Just one dimension higher - if we consider pencils of two-dimensional quadrics in a three-dimensional projective space (i.e. 4-times-4 symmetric matrices with entries in homogeneous linear polynomials of two variables) we obtain models of elliptic (genus one) curves, and can also relate it to a version of Poncelet theorem in three-dimensional space. When we consider pencils of 4-dimensional quadrics in 5-dimensional projective space their base locus is an interesting Fano threefold, and the respective spectral curve is a curve of genus two (all of them are hyper-elliptic), with the base locus (Fano threefold) being one of the simplest moduli spaces of vector bundles, and the respective Jacobian of a genus two curve being isomorphic to the variety of lines isotopic with respect to all quadratic forms in the pencil.
-
-This is a somewhat classical geometric topic that easily related to both well-known constructions as well as interesting open problems related to some of my research. So it could be useful to students interested in algebraic geometry or conformal field theory, as well as to those whose research is related to elliptic and genus two curves and their Jacobians, among many others.
-
 ## **May 5**, **Victor Ibrahim Santos El Adji**: [Determinantal Varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 
-In this seminar I will dedicate myself to the study of generic determinantal varieties (or simply determinantal varieties), given by complex matrices whose minors of a given order cancel each other out. In addition to being a central topic in both Commutative Algebra and Algebraic Geometry, these varieties have several connections with Invariant Theory, Representation Theory and Combinatorics. For example, many classical constructions such as normal rational curves, Veronese manifolds, Segre manifolds, normal rational rolls, are given by determinant manifolds.
+I will introduce and study (generic) determinantal varieties: the loci of matrices of rank bounded from above.
+In addition to being a central topic in both Commutative Algebra and Algebraic Geometry,
+these varieties have several connections with Invariant Theory, Representation Theory and Combinatorics.
+For example, many classical constructions such as rational normal curves, Veronese manifolds, Segre manifolds,
+rational normal scrolls, fall into the class of determinant varieties.
 
-Our aim is to describe the fundamental properties (normality, irreducibility, singular place, etc) and calculate the basic invariants (degree, dimension, Euler's topological characteristic, etc) of determinant manifolds. To do so, we establish the first and second fundamental theorems of invariant theory as one of the main tools
+I will describe their fundamental properties (such as normality, irreducibility, singular locus, etc)
+and calculate their basic invariants (degree, dimension, topological Euler number, etc).
+To do so, I will establish the first and the second fundamental theorems of invariant theory as one of the main tools.
 
-## Previous talk: April 14, **Filipe Bellio da Nóbrega**:   pencils of conics
 
-A __conic__ is an algebraic curve given by the zero set of a homogeneous polynomial of degree two in three variables, as $ax^2+2hxy+by^2+2fxz+2gyz+cz^2$. Such an expression is given by six coefficients, but multiples of a given equation correspond to the same curve. Therefore, the moduli space of __real conics__ and of __complex conics__ are $\mathbf{RP}^5$ and $\mathbf{CP}^5$ respectively.
+## Previous talk: April 28: Sergey Galkin: Pencils of Quadrics, Hyper-Elliptic Curves, their Jacobians, and Moduli Spaces of Stable Vector Bundles of Rank Two
 
-A __real (complex) pencil of conics__ is a one-parameter family of conics given by a __real (complex) line__ in the suitable moduli space. Let $u$ and $v$ be two distinct conics, the pencil that contains them can be algebraically given by $\alpha u + \beta v$, where $[\alpha \colon \beta] \in \mathbf{RP}^1$ (or $\mathbf{CP}^1$). In this talk we will describe and classify all orbits of pencils of conics under the action of the projective group $\mathrm{PGL}(3,\mathbf{R})$ ( and $\mathrm{PGL}(3,\mathbf{C})$ ).
 
 ## where: 
   - **DMAT PUC-Rio**, room **L856** in Leme building (left from main entrance)
@@ -71,6 +68,19 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 
 # Abstracts of all talks      👩‍💻 add yours below 🌈
+
+## May 5, Victor Ibrahim Santos El Adji: [Determinantal Varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
+
+I will introduce and study (generic) determinantal varieties: the loci of matrices of rank bounded from above.
+In addition to being a central topic in both Commutative Algebra and Algebraic Geometry,
+these varieties have several connections with Invariant Theory, Representation Theory and Combinatorics.
+For example, many classical constructions such as rational normal curves, Veronese manifolds, Segre manifolds,
+rational normal scrolls, fall into the class of determinant varieties.
+
+I will describe their fundamental properties (such as normality, irreducibility, singular locus, etc)
+and calculate their basic invariants (degree, dimension, topological Euler number, etc).
+To do so, I will establish the first and the second fundamental theorems of invariant theory as one of the main tools.
+
 
 ## April 28: Sergey Galkin: Pencils of Quadrics, Hyper-Elliptic Curves, their Jacobians, and Moduli Spaces of Stable Vector Bundles of Rank Two
 I will introduce higher-dimensional analogues of pencils of conics (introduced by Filipe on April 14) - namely pencils of quadrics, for example I will explain a classical construction that relates pencils of quadrics with hyper-elliptic curves (double covers of a projective line), and discuss how their linear algebra and geometry is related to various questions about moduli spaces of bundles on these curves, in particular how to construct some forms of Jacobians and moduli spaces of stable rank 2 bundles on a hyper-elliptic curve in terms of a pencil of quadrics and the respective matrix of linear forms (Miles Reid's thesis and Desale-Ramanan's theorem).
