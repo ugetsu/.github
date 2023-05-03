@@ -49,16 +49,15 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - June 23 - Sergey Sergeyev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
 - June 16 - Sergey Burkin - TBA, probably something on trees and graphs, categories, operads, and/or PROPs
 - June 9 - holiday, [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
-- June 2, Graham
+- June 2, Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
 - May 26, Antônio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
-- May 19, Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and their categorification
+- May 19, Graham - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology), and beyond
 - May 12, Verônica - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
 - May 5, Victor - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
-- April 28 - Sergey Galkin - pencils of quadrics
-
 
 ## past talks
 
+- April 28 - Sergey Galkin - pencils of quadrics
 - April 21 - holiday, [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - April 14, Filipe - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
 - April 7 - holiday, [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
@@ -126,7 +125,7 @@ here $A=(a_{ij})\in M_n(\mathrm{F})$ is an $n\times n$ matrix and $\Sigma_n$ den
 
 While the computation of the determinant can be done in a polynomial time, it is still an open question, if there are such algorithms to compute the permanent. 
 
-In 1974 Wang posed a question to find a decent upper bound for $|\per(A)|$ if $A$ is a square $\pm 1$-matrix of rank $k$.
+In 1974 Wang posed a question to find a decent upper bound for $|\mathrm{per}(A)|$ if $A$ is a square $\pm 1$-matrix of rank $k$.
 In 1985 Kräuter conjectured a certain upper bound. 
 
 We prove the Kräuter's conjecture and thus obtain the complete answer to the Wang's question. In particular, we characterized matrices with the maximal possible permanent for each value of $k$.
