@@ -35,7 +35,7 @@ To do so, I will establish the first and the second fundamental theorems of inva
  
 ## when:
   - Fridays (sexta-feira) from **14:00 to 16:00** 
-  - usually we lunch around 12:50-🍿-13:50, just before the talk
+  - usually we lunch around 13:00-🍿-13:50, just before the talk
 
 #  Seminar materials and how to join
 - Make a pull request to join our group
