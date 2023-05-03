@@ -49,16 +49,15 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - June 23 - Sergey Sergeyev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
 - June 16 - Sergey Burkin - TBA, probably something on trees and graphs, categories, operads, and/or PROPs
 - June 9 - holiday, [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
-- June 2, Graham
+- June 2, Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
 - May 26, Antônio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
-- May 19, Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and their categorification
+- May 19, Graham - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology), and beyond
 - May 12, Verônica - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
 - May 5, Victor - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
-- April 28 - Sergey Galkin - pencils of quadrics
-
 
 ## past talks
 
+- April 28 - Sergey Galkin - pencils of quadrics
 - April 21 - holiday, [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - April 14, Filipe - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
 - April 7 - holiday, [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
