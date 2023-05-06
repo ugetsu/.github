@@ -52,11 +52,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - March 24, Bruno - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
 - March 22, 17:00 - André, Bruno, Sérgio, Verônica, Victor -  free discussion
 - 2022, Dec 16 - Marcos Craizer - Improper Affine Spheres and Monge-Ampère equatins
-- 2022, Dec 9 - Alexander Guterman - The solution of Wang-Krauters’s problem on permanents of (−1, 1)-matrices
+- 2022, Dec 9 - Alexander Guterman - [Permanents](https://en.wikipedia.org/wiki/Permanent_(mathematics))
 
 # Abstracts of all talks      👩‍💻 add yours below 🌈
 
-## May 5, Victor Ibrahim Santos El Adji: [Determinantal Varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
+## May 5: Victor Ibrahim Santos El Adji: [Determinantal Varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 
 I will introduce and study (generic) determinantal varieties: the loci of matrices of rank bounded from above.
 In addition to being a central topic in both Commutative Algebra and Algebraic Geometry,
