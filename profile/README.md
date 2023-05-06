@@ -11,22 +11,9 @@
 
 # 🙋‍♀️ Friday seminar 👋
 
-# Next talks:
-## **May 5**, **Victor Ibrahim Santos El Adji**: [Determinantal Varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
+# Next talk (**May 12**) - **Verônica** - [**dessins d'enfant**](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
 
-I will introduce and study (generic) determinantal varieties: the loci of matrices of rank bounded from above.
-In addition to being a central topic in both Commutative Algebra and Algebraic Geometry,
-these varieties have several connections with Invariant Theory, Representation Theory and Combinatorics.
-For example, many classical constructions such as rational normal curves, Veronese manifolds, Segre manifolds,
-rational normal scrolls, fall into the class of determinant varieties.
-
-I will describe their fundamental properties (such as normality, irreducibility, singular locus, etc)
-and calculate their basic invariants (degree, dimension, topological Euler number, etc).
-To do so, I will establish the first and the second fundamental theorems of invariant theory as one of the main tools.
-
-
-## Previous talk: April 28: Sergey Galkin: Pencils of Quadrics, Hyper-Elliptic Curves, their Jacobians, and Moduli Spaces of Stable Vector Bundles of Rank Two
-
+# Previous talk (**May 5**) - **Victor Ibrahim Santos El Adji** - [Determinantal Varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 
 ## where: 
   - **DMAT PUC-Rio**, room **L856** in Leme building (left from main entrance)
@@ -35,7 +22,7 @@ To do so, I will establish the first and the second fundamental theorems of inva
  
 ## when:
   - Fridays (sexta-feira) from **14:00 to 16:00** 
-  - usually we lunch around 13:00-🍿-13:50, just before the talk
+  - usually we lunch around 13:00-🍿-14:00, just before the talk
 
 #  Seminar materials and how to join
 - Make a pull request to join our group
