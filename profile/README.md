@@ -47,24 +47,25 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - July 7: resume of seminar in 2023.1, and free discussion
 - June 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory), what is it and how to use it
 - June 23 - Sergey Sergeyev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
-- June 16 - Sergey Burkin - TBA, probably something on trees and graphs, categories, operads, and/or PROPs
-- June 9 - holiday, [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
-- June 2, Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
-- May 26, Antônio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
-- May 19, Graham - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology), and beyond
-- May 12, Verônica - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
-- May 5, Victor - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
+- June 16 - Sergey Burkin - Koszul duality (to be confirmed, maybe something else related categories, operads, PROPs, PROBs, trees, and some their applications)
+- June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
+- June 2 - Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
+- May 26 - Antônio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
+- May 19 - Graham - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology), and beyond
+- May 12 - Verônica - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
 
 ## past talks
 
+- May 5 - Victor - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 - April 28 - Sergey Galkin - pencils of quadrics
-- April 21 - holiday, [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- April 14, Filipe - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
-- April 7 - holiday, [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- March 31, [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) for mathematicians
-- March 24, Bruno on [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
-- March 22, 17:00:  André, Bruno, Sérgio, Verônica, Victor:   free discussion
-
+- April 21 - holiday - [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
+- April 14 - Filipe - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
+- April 7 - holiday - [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
+- March 31 - [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) for mathematicians
+- March 24, Bruno - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
+- March 22, 17:00 - André, Bruno, Sérgio, Verônica, Victor -  free discussion
+- 2022, Dec 16 - Marcos Craizer - Improper Affine Spheres and Monge-Ampère equatins
+- 2022, Dec 9 - Alexander Guterman - The solution of Wang-Krauters’s problem on permanents of (−1, 1)-matrices
 
 # Abstracts of all talks      👩‍💻 add yours below 🌈
 
