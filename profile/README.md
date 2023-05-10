@@ -13,6 +13,8 @@
 
 # Next talk (**May 12**) - **Verônica** - [**dessins d'enfant**](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
 
+Dessin d’enfant (child’s drawing, map) is a graph embedded into a two-dimensional surface. The term was introduced by A. Grothendieck in 1984 in his famous "Esquisse d’un Programme". The theory of dessins d’enfants in a beautiful way connects 19th century complex analysis with 20th century arithmetic geometry, and very simple and intuitive objects with very abstract concepts. Besides overview of the topic I will present some results in one specific area, which is enumeration of graphs of a certain type.
+
 # Previous talk (**May 5**) - **Victor Ibrahim Santos El Adji** - [Determinantal Varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 
 ## where: 
