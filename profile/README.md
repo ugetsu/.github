@@ -11,7 +11,7 @@
 
 # 🙋‍♀️ Friday seminar 👋
 
-# Next talk (**May 19**, **15:30--17:30**, **unusual time**) **Graham Andrew Smith** on [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
+# Next talk (**May 19**, **15:30--17:30**, **unusual time**) **Graham Andrew Smith** - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
 
 
 # Previous talk (**May 12**) - **Verônica** - [**dessins d'enfant**](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
