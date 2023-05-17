@@ -11,11 +11,10 @@
 
 # 🙋‍♀️ Friday seminar 👋
 
-# Next talk (**May 12**) - **Verônica** - [**dessins d'enfant**](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
+# Next talk (**May 19**, **15:30--17:30**, **unusual time**) **Graham Andrew Smith** on [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
 
-Dessin d’enfant (child’s drawing, map) is a graph embedded into a two-dimensional surface. The term was introduced by A. Grothendieck in 1984 in his famous "Esquisse d’un Programme". The theory of dessins d’enfants in a beautiful way connects 19th century complex analysis with 20th century arithmetic geometry, and very simple and intuitive objects with very abstract concepts. Besides overview of the topic I will present some results in one specific area, which is enumeration of graphs of a certain type.
 
-# Previous talk (**May 5**) - **Victor Ibrahim Santos El Adji** - [Determinantal Varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
+# Previous talk (**May 12**) - **Verônica** - [**dessins d'enfant**](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
 
 ## where: 
   - **DMAT PUC-Rio**, room **L856** in Leme building (left from main entrance)
@@ -23,7 +22,7 @@ Dessin d’enfant (child’s drawing, map) is a graph embedded into a two-dimens
   - if room L856 is occupied (e.g. for Masters/PhD defence) we will use room **L866**
  
 ## when:
-  - Fridays (sexta-feira) from **14:00 to 16:00** 
+  - Fridays (sexta-feira) from **14:00 to 16:00** (unless stated other time)
   - usually we lunch around 13:00-🍿-14:00, just before the talk
 
 #  Seminar materials and how to join
@@ -57,6 +56,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - 2022, Dec 9 - Alexander Guterman - [Permanents](https://en.wikipedia.org/wiki/Permanent_(mathematics))
 
 # Abstracts of all talks      👩‍💻 add yours below 🌈
+
+## May 19: Graham Andrew Smith: [Morse homology](https://en.wikipedia.org/wiki/Morse_homology), and beyond
+
 
 ## May 12: Veronika Treumova: [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
 
