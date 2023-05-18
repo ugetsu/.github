@@ -14,7 +14,7 @@
 # Next talk (**May 19**, **15:30--17:30**, **unusual time**) **Graham Andrew Smith** - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
 I will present the main ideas underlying Morse homology theory in the finite dimensional case and will discuss some applications and conjectures in the infinite dimensional setting.
 
-# Previous talk (**May 12**) - **Verônica** - [**dessins d'enfant**](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
+## Previous talk (**May 12**) - **Verônica** - [**dessins d'enfant**](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
 
 ## where: 
   - **DMAT PUC-Rio**, room **L856** in Leme building (left from main entrance)
