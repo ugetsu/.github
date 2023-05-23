@@ -1,7 +1,6 @@
 ## **Bruno Suassuna**
 ## Formal Perturbation Theory for Stochastic Paths
 ### March 24, 14:00-16:00; DMAT PUC-Rio, room L856 (ed. Leme)
-- **March 24** (Friday = 6ª), 14:00-16:00
 
 #### Short abstract for mathematicians:
 
