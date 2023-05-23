@@ -9,9 +9,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# 🙋‍♀️ Friday seminar 👋
+# 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-# Next talk (**May 26**) **Antônio Maria Vasconcellos M. D. da Costa** - [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and a combinatorial proof of [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
+# Next talk (🔜 **May 26** 🕑) **Antônio Maria Vasconcellos M. D. da Costa** - [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and a combinatorial proof of [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
 
 In this seminar, we present a combinatorial proof of
          [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution),
@@ -27,12 +27,12 @@ It describes the limiting behavior of the eigenvalue distribution of large Gauss
   - if room L856 is occupied (e.g. for Masters/PhD defence) we will use room **L866**
  
 ## when:
-  - Fridays (sexta-feira) from **14:00 to 16:00** (unless stated other time)
-  - usually we lunch around 13:00-🍿-14:00, just before the talk
+  - 🕑 Fridays (sexta-feira) from **14:00 to 16:00** (unless stated other time)
+  - 🍛 usually we lunch around 13:00-14:00, just before the talk
 
 #  Seminar materials and how to join
 - Make a pull request to join our group
-- Please [👩‍💻 add here 🌈](https://github.com/friday-seminar/.github/blob/master/topics.md)
+- Please [⭣⭣⭣ add here ⭣⭣⭣](https://github.com/friday-seminar/.github/blob/master/topics.md)
 interesting themes and topics for next seminar talks, references, slides of the talks, etc
 
 ## what's next
