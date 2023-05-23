@@ -1,7 +1,6 @@
 ## **Victor Ibrahim Santos el Adji**
 ## Determinantal Varieties
 ### May 5, 14:00-16:00; DMAT PUC-Rio, room L856 (ed. Leme)
-- **May 5** (Friday = 6ª), 14:00-16:00
 
 I will introduce and study (generic) determinantal varieties: the loci of matrices of rank bounded from above.
 
