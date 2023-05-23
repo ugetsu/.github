@@ -1,5 +1,6 @@
-## May 26: Antônio Maria Vasconcellos M. D. da Costa
+## Antônio Maria Vasconcellos M. D. da Costa
 ## [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and a combinatorial proof of [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
+## May 26 (Friday), 14:00-16:00; DMAT PUC-Rio, room L856 (ed. Leme)
 
 In this seminar, we present a combinatorial proof of
          [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution),
