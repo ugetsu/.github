@@ -60,7 +60,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - 2022, Dec 16 - Marcos Craizer - [Improper Affine Spheres](https://en.wikipedia.org/wiki/Affine_sphere) and [Monge-Ampère equations](https://en.wikipedia.org/wiki/Monge–Ampère_equation)
 - 2022, Dec 9 - Alexander Guterman - [Permanents](https://en.wikipedia.org/wiki/Permanent_(mathematics))
 
-# Abstracts of all talks      👩‍💻 add yours below 🌈
+# Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
 ## **May 26**: Antônio Maria Vasconcellos M. D. da Costa - [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and a combinatorial proof of [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
 
