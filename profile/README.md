@@ -11,10 +11,10 @@
 
 # 🙋‍♀️ Friday seminar 👋
 
-# Next talk (**May 19**, **15:30--17:30**, **unusual time**) **Graham Andrew Smith** - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
-I will present the main ideas underlying Morse homology theory in the finite dimensional case and will discuss some applications and conjectures in the infinite dimensional setting.
+# Next talk (**May 26**) Antônio Maria Vasconcellos M. D. da Costa - [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and [Wigner surmise](https://en.wikipedia.org/wiki/Wigner_surmise)
 
-## Previous talk (**May 12**) - **Verônica** - [**dessins d'enfant**](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
+## Previous talk (May 19) Graham Andrew Smith - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
+
 
 ## where: 
   - **DMAT PUC-Rio**, room **L856** in Leme building (left from main entrance)
@@ -39,10 +39,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 - June 2 - Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
 - May 26 - Antônio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
-- May 19 (15:30) - Graham - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology), and beyond
 
 ## past talks
 
+- May 19 (15:30) - Graham - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology), and beyond
 - May 12 - Verônica - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
 - May 5 - Victor - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 - April 28 - Sergey Galkin - pencils of quadrics
@@ -57,7 +57,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      👩‍💻 add yours below 🌈
 
-## May 19: (**15:30--17:30**, **unusual time**) [Graham Andrew Smith](https://www.ihes.fr/~moriarty) - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
+## (**May 26**): Antônio Maria Vasconcellos M. D. da Costa - [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and [Wigner surmise](https://en.wikipedia.org/wiki/Wigner_surmise)
+
+## May 19: (15:30--17:30) [Graham Andrew Smith](https://www.ihes.fr/~moriarty) - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
 
 I will present the main ideas underlying Morse homology theory in the finite dimensional case and will discuss some applications and conjectures in the infinite dimensional setting.
 
