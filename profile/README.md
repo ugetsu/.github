@@ -11,14 +11,13 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-# Next talk (🔜 **May 26** 🕑) **Antônio Maria Vasconcellos M. D. da Costa** - [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and a combinatorial proof of [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
+# This week (🔜 **June 2** 🕑, **two talks** - 9:00-11:00 and 14:00-16:00):
+- 9:00-11:00: **Miguel dos Anjos Batista**: [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), their relation to [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
+- 14:00-16:00 **Rodrigo Matos**: introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics
 
-In this seminar, we present a combinatorial proof of
-         [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution),
-a fundamental result in [random matrix theory](https://en.wikipedia.org/wiki/Random_matrix).
-It describes the limiting behavior of the eigenvalue distribution of large Gaussian Orthogonal Ensemble (GOE) matrices. While the original proof of the Semi-Circle Law relies on advanced techniques from analysis, our approach provides an alternative perspective through combinatorial methods.
 
-## Previous talk (May 19) Graham Andrew Smith - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
+## Previous talk (May 19) Antônio Maria Vasconcellos M. D. da Costa - [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and a combinatorial proof of [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
+
 
 
 ## where: 
@@ -42,11 +41,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - June 23 - Sergey Sergeyev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
 - June 16 - Sergey Burkin - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality) - to be confirmed, maybe something else related to categories, [operads](https://en.wikipedia.org/wiki/Operad), [PROPs](https://en.wikipedia.org/wiki/PROP_(category_theory)), PROBs, trees, and some their applications
 - June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
-- June 2 - Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
-- May 26 - Antônio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
+- June 2, **14:00-16:00** - Rodrigo Matos: [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface)
+- June 2, **9:00-11:00** - Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
 
 ## past talks
 
+- May 26 - Antonio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
 - May 19 (15:30) - Graham - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology), and beyond
 - May 12 - Verônica - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
 - May 5 - Victor - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
@@ -62,7 +62,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
-## **May 26**: Antônio Maria Vasconcellos M. D. da Costa - [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and a combinatorial proof of [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
+## June 2: two talks : 9:00-11:00 (Miguel) / 14:00-16:00 (Rodrigo)
+- 14:00-16:00 **Rodrigo Matos**: introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics
+- 9:00-11:00: **Miguel dos Anjos Batista**: [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), their relation to [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
+
+## May 26: Antonio Vasconcellos - [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and a combinatorial proof of [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
 
 In this seminar, we present a combinatorial proof of
          [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution),
