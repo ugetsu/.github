@@ -12,8 +12,12 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 # This week (🔜 **June 2** 🕑, **two talks** - 9:00-11:00 and 14:00-16:00):
-- 9:00-11:00: **Miguel dos Anjos Batista**: [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), their relation to [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
-- 14:00-16:00 **Rodrigo Matos**: introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics
+
+- 9:00-11:00 -- **Miguel dos Anjos Batista** -- [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), their relation to [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
+
+I will introduce the concept of a finite projective plane (FPP), their basic structure, and show the existence of some of them. Beside that, I will talk about Mutually Orthogonal Latin Squares (MOLS), a "categorical" way to visualize it and how they interact with FPP. If possible I will talk about more complex FPP existence theorems.
+
+- 🕑 **14:00-16:00** -- **Rodrigo Matos** -- introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics
 
 
 ## Previous talk (May 19) Antônio Maria Vasconcellos M. D. da Costa - [random matrices](https://en.wikipedia.org/wiki/Random_matrix), graphs and a combinatorial proof of [Wigner's Semi-Circle Law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
