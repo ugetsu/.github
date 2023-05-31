@@ -41,8 +41,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - June 23 - Sergey Sergeyev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
 - June 16 - Sergey Burkin - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality) - to be confirmed, maybe something else related to categories, [operads](https://en.wikipedia.org/wiki/Operad), [PROPs](https://en.wikipedia.org/wiki/PROP_(category_theory)), PROBs, trees, and some their applications
 - June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
-- June 2, **14:00-16:00** - Rodrigo Matos: [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface)
-- June 2, **9:00-11:00** - Miguel - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
+- June 2, **14:00-16:00** - **Rodrigo**: introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics
+- June 2, **9:00-11:00** - **Miguel**: [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), and their relation to [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
 
 ## past talks
 
