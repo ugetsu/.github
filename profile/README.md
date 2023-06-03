@@ -11,7 +11,7 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## NB: **June 8-10** is a holiday, Recesso do **Corpus Christi** 
+## NB: **June 8-10** is a holiday, Recesso de **Corpus Christi** 
 
 ## Next talk (🔜 **June 16** 🕑) --  **Sergey Burkin**.
 
