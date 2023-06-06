@@ -13,7 +13,7 @@
 
 ## NB: **June 8-10** is a holiday, Recesso de **Corpus Christi** 
 
-## Next talk (🔜 **June 16** 🕑) --  **Sergey Burkin**.
+## Next talk (🔜 **June 16** 🕑) --  **Sergei Burkin**.
 
 ## where: 
   - **DMAT PUC-Rio**, room **L856** in Leme building (left from main entrance)
@@ -67,7 +67,11 @@ semialgebraic. Then I will try to give an overview of how one can generalize thi
 of an o-minimal structure. I expect that the talk will mostly be informal, since I am not a specialist in
 o-minimal structures and got interested in them because of their recent applications to Hodge theory. 
 
-## June 16 -- **Sergey Burkin**
+## June 16 -- **Sergei Burkin** -- An introduction to [operads](https://en.wikipedia.org/wiki/Operad)
+
+Operads are structures similar to categories. Morphisms in an operad can have any number of inputs and exactly one output. Each operad encodes a type of algebra. Such types include associative algebras, Lie algebras, BV-algebras and other types of algebras appearing in mathematics and physics.
+
+We will discuss some of the main applications and ideas in operad theory, including recognition principle, Koszul duality, formality of little disks and deformation quantization, Grothendieck—Teichmuller theory, and theory of homotopy coherent structures.
 
 ## June 2 (14:00-16:00, L866) -- **Rodrigo Matos** -- Irreducibility of the Bloch and Fermi varieties on periodic media and connections to spectral theory. (an introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics)
 
